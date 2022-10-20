@@ -6,9 +6,9 @@
 
 >[Installation](https://github.com/shenggangq/sml_2022_group52/blob/main/README.md#Installation)
 
->[Organisation of files](https://github.com/shenggangq/sml_2022_group52/blob/main/README.md#Organisationoffiles)
+>[Organisation of files](https://github.com/shenggangq/sml_2022_group52/blob/main/README.md#organisation-of-files)
 
->[Other files](https://github.com/shenggangq/sml_2022_group52/blob/main/README.md#Otherfiles)
+>[Other files](https://github.com/shenggangq/sml_2022_group52/blob/main/README.md#Other-files)
 
 
 <br/>
@@ -21,7 +21,7 @@
 | Student Name| Student ID | Email |
 | :--- | :--- | :--- |
 | Shenggang Qian| 1066266|shenggangq@student.unimelb.edu.au|
-|  Haocong Chen| 987916| @student.unimelb.edu.au| 
+|  Haocong Chen| 987916| haocongc@student.unimelb.edu.au| 
 | Jiayao Tong|    dd     |@student.unimelb.edu.au|
 
   
