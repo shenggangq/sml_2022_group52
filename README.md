@@ -22,7 +22,7 @@
 | :--- | :--- | :--- |
 | Shenggang Qian| 1066266|shenggangq@student.unimelb.edu.au|
 |  Haocong Chen| 987916| haocongc@student.unimelb.edu.au| 
-| Jiayao Tong|    dd     |@student.unimelb.edu.au|
+| Jiayao Tong|    958905    |jiayaot@student.unimelb.edu.au|
 
   
 <br/>
@@ -45,12 +45,13 @@ pip install sklean
 
 |      | File name | Comment  |  
 | :--- | :--- | :--- |
-|1| sampleMl_func.ipynb| Data processing |  
+|1| sampleMl_func.ipynb, Data preprocessing.ipnby| Data processing |  
 | 2|Neural Network.ipynb | Predict using ANN framework | 
-|3| ****| Predict using sample model  |
+|3| Base classifiers on kaggle.ipnby| Predict using sample model  |
 |4| feature_train.npy| Feature for train dataset |
 |5| feature_test.npy| Feature for test dataset |
 |6| label.npy| Label for train dataset  |
+
 
 <br/>
 
@@ -59,7 +60,7 @@ pip install sklean
 
 [Github Link](https://github.com/shenggangq/sml_2022_group52.git)
 
-[Meeting Mintues](URL)
+[Meeting Mintues](https://github.com/shenggangq/sml_2022_group52/blob/main/meeting%20minute.zip)
 
 
 <br/>
