@@ -59,7 +59,7 @@ pip install sklean
 
 [Github Link](https://github.com/shenggangq/sml_2022_group52.git)
 
-[Meeting Mintues](URL)
+[Meeting Mintues](meeting minute.zip)
 
 
 <br/>
